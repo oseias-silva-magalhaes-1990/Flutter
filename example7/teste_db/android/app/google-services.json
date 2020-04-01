@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44896610727",
+    "firebase_url": "https://teste-a969c.firebaseio.com",
+    "project_id": "teste-a969c",
+    "storage_bucket": "teste-a969c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44896610727:android:71c0ab8a4a8ec85754ee82",
+        "android_client_info": {
+          "package_name": "com.oseiasmagalhaes.testedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44896610727-vv5v1m1rjboo5o1rnm0bnj5sk96a4065.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlo-jY91HMZeULC3r4GcqCLe8m_isBBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44896610727-vv5v1m1rjboo5o1rnm0bnj5sk96a4065.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
