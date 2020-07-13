@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944930349991",
+    "firebase_url": "https://oseias-brew-crew.firebaseio.com",
+    "project_id": "oseias-brew-crew",
+    "storage_bucket": "oseias-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944930349991:android:042bf0a7f568ec8d954c82",
+        "android_client_info": {
+          "package_name": "com.oseiasmagalhaes.brewcrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944930349991-qm518vlusphaersnemnjspkiv3bgjceo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdJFi5yT3-yN9tMinhLRJkSrdovCcDDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944930349991-qm518vlusphaersnemnjspkiv3bgjceo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
